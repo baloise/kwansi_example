@@ -37,7 +37,7 @@ This example demonstrates how to use Kwansi to optimize a tweet creation task. I
    python example_implementation.py
    ```
 
-2. For a step-by-step walkthrough, see the `kwansi_example.ipynb` Jupyter notebook.
+2. For a step-by-step walkthrough, see the [`example_implementation.ipynb`](https://github.com/lordamp/kwansi_example/blob/main/example_implementation.ipynb) Jupyter notebook.
 
 ## File Structure
 
