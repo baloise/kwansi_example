@@ -42,6 +42,7 @@ This example demonstrates how to use Kwansi to optimize a tweet creation task. I
 ## File Structure
 
 - `example_implementation.py`: The example implementation of Kwansi. Run this to execute the whole example.
+- `example_implementation.ipynb`: The step-by-step walkthrough of the example implementation as a Jupyter notebook.
 - `components/`: Custom task and evaluator definitions
     - `task.py`: The task instructions we're trying to optimize
     - `assessors.py`: The assessor evaluators used to evaluate the task (LLM-based evaluators)
