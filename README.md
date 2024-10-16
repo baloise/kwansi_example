@@ -1,6 +1,6 @@
 # Kwansi Example Implementation
 
-This repository contains an example implementation of Kwansi, a wrapper for [DSPy](https://dspy-docs.vercel.app/docs) that makes its optimizers easier to use. You can find Kwansi here: https://github.com/lordamp/kwansi, which also includes a documentation about its core functions.
+This repository contains an example implementation of Kwansi, a wrapper for [DSPy](https://dspy-docs.vercel.app/docs) that makes its optimizers easier to use. You can find Kwansi here: https://github.com/baloise/kwansi, which also includes a documentation about its core functions.
 
 ## Overview
 
@@ -37,7 +37,7 @@ This example demonstrates how to use Kwansi to optimize a tweet creation task. I
    python example_implementation.py
    ```
 
-2. For a step-by-step walkthrough, see the [`example_implementation.ipynb`](https://github.com/lordamp/kwansi_example/blob/main/example_implementation.ipynb) Jupyter notebook.
+2. For a step-by-step walkthrough, see the [`example_implementation.ipynb`](https://github.com/baloise/kwansi_example/blob/main/example_implementation.ipynb) Jupyter notebook.
 
 ## File Structure
 
